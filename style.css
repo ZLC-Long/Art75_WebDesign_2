@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+P{
+    font-size: 33px;
+    color: white;
+}
+a{
+  color: yellow;
+  font-size: 20px;
+}
+*{
+  margin:0;
+  padding:0;
+  max-width: 100%;
+}
+
+h1 {
+  color: gold;
+  font-family: 'Lobster', monospace;
+  text-align: center;
+  background-color: #333333;
+  color: #f2f2f2;
+  padding: 30px;
+  border: 6px  #ffffff	 outset;
+}
+h2{
+  text-align: center;
+  padding: 30px;
+}
+
+img.animated-gif{
+  width: 700px;
+  height: auto;
+}
+
+#click {
+  font-weight: bold;
+  font-size: 3em;
+  position: middle;
+  top:30vh;
+  left: 15vw;
+  cursor: pointer;}
+
+#paragraph {
+  text-align: center;
+  color: white;
+  width: 50vw;
+
+}
+
+ #Culture Trip {
+   position: absolute;
+   top: 45vh;
+   left: 30vw;
+   visibility: hidden;
+ }
+
+ #Trip{
+   position: right;
+   top: 45vh;
+   left: 30vw;
+   visibility: hidden;
+ }
